@@ -2,3 +2,4 @@
 simple linux memory usage controller. 
 
 [description](LICENSE)
+license is "[LICENSE](LICENSE)"
