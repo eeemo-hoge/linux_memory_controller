@@ -21,7 +21,8 @@ g++ main.cpp
 ## Vision
 To enable the display of more software while maintaining this prototype.
 
-## Images 
+## Images
 
+![linux memory controller](Images/linux_ram_controller.png)
 
 license is "[LICENSE](LICENSE)"
