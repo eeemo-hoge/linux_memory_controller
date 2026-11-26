@@ -2,8 +2,7 @@
 A simple linux memory usage controller. 
 
 ## Overview
-Sometimes, I feels lazy to see RAM usage by htop becuase I have to read lots of info.
-So, I wrote this software. This software let you see simplified way to what software using more RAM and CPU usage by sorting by in decreasing order. 
+Sometimes I find it a hassle to manage software using htop or top because there's so much to read. That's why I created this software.
 
 ## Usage
 git clone https://github.com/eeemo-hoge/linux_memory_controller/
