@@ -8,7 +8,7 @@ So, I wrote this software. This software let you see simplified way to what soft
 ## Usage
 git clone https://github.com/eeemo-hoge/linux_memory_controller/
 
-cd linux_memory_controller
+cd linux_memory_controller/src/v.x.x/
 
 g++ main.cpp
 
